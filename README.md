@@ -1,3 +1,5 @@
 Refactorizacion: 
 
-1.
+**<<Code Smell 1>>**
+Linea 5
+
